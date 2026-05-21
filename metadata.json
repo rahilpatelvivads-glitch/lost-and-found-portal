@@ -1,6 +1,0 @@
-{
-  "name": "Campus Lost & Found Portal",
-  "description": "A modern, secure, and responsive platform for college students to report and find lost/found items with admin oversight.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
